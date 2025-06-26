@@ -15,5 +15,4 @@ A simple blog application built with PHP and Laravel. Users can create, edit, an
 - **Backend:** PHP, Laravel  
 - **Frontend:** Blade, Bootstrap 
 - **Database:** MySQL  
-- **Other:** Laravel Breeze / Sanctum 
 
